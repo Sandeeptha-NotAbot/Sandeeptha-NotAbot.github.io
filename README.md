@@ -20,10 +20,15 @@ Student IT specialist @ Iowa State University-College of Liberal Arts and Scienc
 
 ### Projects 
 Remotely controlled CyBot Ambulance
+
 "SerpentSpotter" website 
+
 Iowa State Attendance Tracker
+
 Iowa State Productivity Dashboard
+
 “GreeX” Social Media App
+
 Rock, paper, Scissor game
 
 
